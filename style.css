@@ -56,3 +56,6 @@ footer { border-top: 1px solid #b7c4c3; font-size: .95rem; }
 .card h2 { margin: 0 0 .4rem; font-size: 1.35rem; }
 .actions { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; margin-top: 1rem; }
 @media (min-width: 560px) { .card { grid-template-columns: 210px 1fr; } }
+.sources-card { display: block; }
+.sources { margin: .5rem 0 0; padding-left: 1.2rem; }
+.sources li { margin: .4rem 0; overflow-wrap: anywhere; }
